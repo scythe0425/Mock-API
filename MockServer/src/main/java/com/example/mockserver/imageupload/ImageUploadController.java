@@ -23,6 +23,6 @@ public class ImageUploadController {
         File savedFile = new File(uploadDir + fileName);
         file.transferTo(savedFile);
 
-        return "http://3.37.89.181/images/" + fileName;
+        return "http://13.124.206.192/images/" + fileName;
     }
 }
