@@ -1,4 +1,4 @@
-package com.example.mockserver;
+package com.example.mockserver.base64uploadcontroller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

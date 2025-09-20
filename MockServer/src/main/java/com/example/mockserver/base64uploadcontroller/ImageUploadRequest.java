@@ -1,4 +1,4 @@
-package com.example.mockserver;
+package com.example.mockserver.base64uploadcontroller;
 
 public class ImageUploadRequest {
     private String imageBase64;
